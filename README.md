@@ -16,6 +16,6 @@ Este proyecto es una calculadora simple desarrollada con fines educativos. Permi
 
 - Lenguaje: Python
 - Editor: Visual Studio Code
-- Control de versiones: Git + GitHub
+- Control de versiones: GitHub
 
 
