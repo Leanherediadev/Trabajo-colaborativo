@@ -1,3 +1,7 @@
+import Suma
+import Resta
+import Multiplicación
+import División
 def menu():
     while True:
         print("\n--- Calculadora ---")
@@ -10,13 +14,13 @@ def menu():
         opcion = input("Seleccione una opción (1-5): ")
 
         if opcion == '1':
-            suma()
+            Suma.suma()
         elif opcion == '2':
-            resta()
+            Resta.resta()
         elif opcion == '3':
-            multiplicacion()
+            Multiplicación.multiplicacion()
         elif opcion == '4':
-            division()
+            División.division()
         elif opcion == '5':
             print("Gracias por usar la calculadora. ¡Adiós!")
             break
