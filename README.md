@@ -17,3 +17,5 @@ Este proyecto es una calculadora simple desarrollada con fines educativos. Permi
 - Editor: Visual Studio Code
 - Control de versiones: GitHub
 
+Link de chat
+https://chatgpt.com/share/685c88d1-3904-8013-a5d0-e9fe4b238a48
